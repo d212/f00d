@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Yo Food`,
+    title: `Food Yo`,
     author: `Dimitri Cole`,
     description: `A blog about good eats written by your average group of friends.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/polardare-icon.png`,
       },
     },
     `gatsby-plugin-offline`,
